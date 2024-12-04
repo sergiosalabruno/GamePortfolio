@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: db786b94e250b3e46bee4e406c307bce, type: 3}
-  m_Name: CharacterData
+  m_Name: mynewsergiocharacterdata
   m_EditorClassIdentifier: 
-  UniqueId: df24b3b1-2dc0-4ba3-bc9e-ee89f001ec63
-  Name: Sergio
-  Prefab: {fileID: 7904275433501616237, guid: 37b3f85ac63656f45aa70b569209086f, type: 3}
+  UniqueId: d28e65ed-4270-42d2-a214-342a702ea926
+  Name: sergio
+  Prefab: {fileID: 6606606400226160740, guid: 505618ae5e3af8e4da6951c977e6847d, type: 3}
   InitialInventorySize: 8
   InitialInventory:
   - Item: {fileID: 11400000, guid: 43713080a20059f4a9e5783dd395e4f7, type: 2}
@@ -27,4 +27,5 @@ MonoBehaviour:
     Items: []
   InitialDocuments: []
   InitialMaps: []
-  InitialEquipment: []
+  InitialEquipment:
+  - {fileID: 11400000, guid: 43713080a20059f4a9e5783dd395e4f7, type: 2}

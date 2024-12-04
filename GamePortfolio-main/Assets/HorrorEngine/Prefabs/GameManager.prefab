@@ -46,7 +46,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Player: {fileID: 0}
   Characters:
-  - {fileID: 11400000, guid: d75291cfb943ce64fa59970ae20e859b, type: 2}
+  - {fileID: 11400000, guid: 437d5542fbdc91c468876c8c7da2c121, type: 2}
   InventorySetup:
     AutoStack: 1
     Combinations:
