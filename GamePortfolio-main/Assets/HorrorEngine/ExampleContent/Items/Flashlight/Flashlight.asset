@@ -20,12 +20,15 @@ MonoBehaviour:
   InventoryAction: 2
   Flags: 368
   DropPrefab: {fileID: 0}
+  MaxStackSize: 0
   EquipPrefab: {fileID: 3669545791232698584, guid: df168a0bab5f64efcb2977453b7a4d35, type: 3}
   Slot: 2
   CharacterAttachment:
     Socket: {fileID: 11400000, guid: 73e993e2f27d34312b394cfa8e624acd, type: 2}
-    Position: {x: 0, y: 0, z: 0}
-    Rotation: {x: 0, y: 0, z: 0}
-    Scale: {x: 0.001, y: 0.001, z: 0.001}
+    Position: {x: -0.09, y: -0, z: -0}
+    Rotation: {x: 3.84, y: -0.13, z: -1.46}
+    Scale: {x: 0.1, y: 0.1, z: 0.1}
   AttachOnEquipped: 1
   MoveOutOfInventoryOnEquip: 1
+  AnimatorOverride:
+    m_Value: {fileID: 0}

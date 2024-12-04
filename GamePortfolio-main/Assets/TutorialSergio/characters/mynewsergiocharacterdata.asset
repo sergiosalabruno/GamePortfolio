@@ -21,6 +21,10 @@ MonoBehaviour:
     Count: 1
     SecondaryCount: 15
     Status: 0
+  - Item: {fileID: 11400000, guid: 5bac8dbb311284b85a00faca85506be6, type: 2}
+    Count: 1
+    SecondaryCount: 0
+    Status: 0
   InitialStorageBox:
     Name: 
     Capacity: 0
